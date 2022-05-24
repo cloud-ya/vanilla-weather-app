@@ -39,6 +39,10 @@ p {
   font-family: Cerebri-Sans, Helvetica, Arial, sans-serif;
 }
 
+.btn {
+  background: #c3acff;
+}
+
 .weather-app {
   color: rgb(135 135 135);
   max-width: 600px;
