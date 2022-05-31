@@ -115,3 +115,9 @@ p {
   color: #212121;
   font-weight: bold;
 }
+
+.col-sm {
+  border-radius: 10px;
+  padding-right: 3px;
+  box-shadow: ;
+}
