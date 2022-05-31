@@ -54,7 +54,7 @@ p {
 
 .weather-app {
   color: rgba(39, 33, 66, 0.7);
-  max-width: 600px;
+  max-width: 500px;
   margin: 30px auto;
   padding: 40px;
   background-color: rgba(255, 255, 255, 0.8);
